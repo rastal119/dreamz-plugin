@@ -14,7 +14,7 @@ This repository is Dreamz's public listing. The studio itself runs at https://dr
   /plugin marketplace add https://dreamz-studios.com/portfolio/plugin/marketplace.json
   /plugin install dreamz@dreamz-studios
   ```
-- Start here (7 days free): https://dreamz-studios.com/claude/start/
+- Start here (free, no card): https://dreamz-studios.com/claude/start/
 
 ## What it makes
 
@@ -25,7 +25,7 @@ Commercials and product ads, short films and series with consistent characters, 
 - Every prompt is written and checked for the engine it goes to; every take is looked at before you see it.
 - The price comes first and nothing paid runs without your yes.
 - Generation runs on your own provider keys (an Anthropic key is required; a video provider such as KIE). Each provider bills you directly; Dreamz adds no markup.
-- The Dreamz plan: first 7 days free, then $200 a month; cancel any time.
+- The Dreamz plan: Dreamz is free until January 8, 2027: every tool, no card.
 
 ## Links
 
