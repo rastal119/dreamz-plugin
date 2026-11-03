@@ -1,5 +1,7 @@
 # Dreamz Studios: a film studio inside your own Claude
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/rastal119/dreamz-plugin)
+
 Dreamz Studios is a film studio that works inside your own Claude: add the Dreamz connector (an MCP server) to Claude, or the Dreamz plugin to Claude Code, and your Claude plans, writes, makes, checks and finishes films, pictures, voices and music with you. Built for Claude (recommended); other AI apps can connect with fewer abilities.
 
 This repository is Dreamz's public listing. The studio itself runs at https://dreamz-studios.com.
@@ -30,5 +32,6 @@ Commercials and product ads, short films and series with consistent characters, 
 - More: https://dreamz-studios.com/llms.txt
 - Terms: https://dreamz-studios.com/terms/ · Privacy: https://dreamz-studios.com/privacy/
 - Contact: hello@dreamz-studios.com
+- Also listed on [mcpservers.org](https://mcpservers.org/servers/rastal119/dreamz-plugin).
 
 © 2026 Dreamz Studios, operated by Land of the Son LLC. All rights reserved.
